@@ -2,7 +2,7 @@
 
 ## FLOW
   - CODE REVIEW
-    - `fork`一份代码至自己仓库，开发完一部分功能后将该部分代码以`pull request`的方式提到主仓库，并需要指定`reviewer`
+    - `fork`一份代码至自己仓库, 开发完一部分功能后将该部分代码以`pull request`的方式提到主仓库，并需要指定`reviewer`
   - 分支管理
     - 类型：
       - `master`： 发布至`stage`环境和`production`环境
