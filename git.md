@@ -43,7 +43,8 @@
     1. 两个迭代同时间点上线，协调上线时间，避免同时上线。若无法避免，则需要拉取`stage`分支上`st`环境，`dev`不能直接合并到`master`.
     2. 非提测代码不允许提到`dev`,防止有脏代码。
 
-## COMMIT MESSAGE
+
+## COMMIT MESSAGE
   - feat：新功能（feature）
   - fix：修补bug
   - docs：文档（documentation）
